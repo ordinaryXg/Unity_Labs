@@ -14,7 +14,7 @@
 ```mkdir workspace```
 
 ```cd workspace```
-
+这里是一个自己的地址
 ```git clone git@github.com:boreshkinai/protores.git```
 
 
